@@ -72,7 +72,7 @@ class GFrame:Form {
             this.Load += new System.EventHandler(this.GFrame_Load);
             this.ResumeLayout(false);
 
-        //dd
+        //dd help
 
     }
 
