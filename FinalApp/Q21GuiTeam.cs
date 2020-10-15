@@ -72,6 +72,8 @@ class GFrame:Form {
             this.Load += new System.EventHandler(this.GFrame_Load);
             this.ResumeLayout(false);
 
+        //dd
+
     }
 
     private void GFrame_Load(object sender, EventArgs e)
